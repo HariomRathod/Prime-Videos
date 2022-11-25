@@ -1,0 +1,45 @@
+@media only screen and (max-width: 769px) {
+  .nave-link li {
+    display: none;
+  }
+  ul.right {
+    width: 28%;
+    margin: -38px;
+  }
+  .container3 {
+    height: 100vh;
+  }
+  .section6 {
+    height: 96vh;
+    width: 74%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  /*  */
+  .section7 {
+    background-size: cover;
+    background-position: 0%;
+    background-repeat: no-repeat;
+  }
+  .section8 h1 {
+    margin-left: 10px;
+  }
+  .section8 h4 {
+    margin-left: 10px;
+  }
+  .get {
+    margin-left: 10px;
+  }
+  .section10{
+    width: 66%;
+  }
+  .section9 h1{
+    margin-right: 10px;
+  }
+  .section9 h4{
+    margin-right: 10px;
+  }
+  .get {
+    margin-right: 10px;
+  }
+}
